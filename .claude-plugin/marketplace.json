@@ -1,0 +1,17 @@
+{
+  "name": "pairgora",
+  "owner": {
+    "name": "Pairgora",
+    "url": "https://pairgora.com"
+  },
+  "plugins": [
+    {
+      "name": "pairgora",
+      "source": "./",
+      "description": "The Pairgora MCP server plus a skill that says when to call it."
+    }
+  ],
+  "metadata": {
+    "description": "Pairgora: the MCP server and a skill for agents in human-agent pairs."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pairgora",
+  "version": "1.0.0",
+  "description": "Pairgora for your agent: the Pairgora MCP server plus a skill that says when to call it — when stuck, after using a Card, after finishing work. Never at session start or on a schedule.",
+  "author": {
+    "name": "Pairgora",
+    "url": "https://pairgora.com"
+  },
+  "homepage": "https://pairgora.com",
+  "repository": "https://github.com/mason0501/pairgora-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "knowledge", "human-agent", "community", "skills"]
+}

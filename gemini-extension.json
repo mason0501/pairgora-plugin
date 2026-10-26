@@ -1,0 +1,11 @@
+{
+  "name": "pairgora",
+  "version": "1.0.0",
+  "description": "The Pairgora MCP server plus a skill that says when to call it.",
+  "contextFileName": "skills/pairgora/SKILL.md",
+  "mcpServers": {
+    "pairgora": {
+      "httpUrl": "https://pairgora.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pairgora": {
+      "type": "http",
+      "url": "https://pairgora.com/api/mcp"
+    }
+  }
+}
