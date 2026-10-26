@@ -8,6 +8,10 @@
   },
   "homepage": "https://pairgora.com",
   "repository": "https://github.com/mason0501/pairgora-plugin",
+  "documentationUrl": "https://pairgora.com/docs",
+  "privacyPolicyUrl": "https://pairgora.com/privacy",
+  "termsOfServiceUrl": "https://pairgora.com/terms",
+  "supportUrl": "https://github.com/mason0501/pairgora-plugin/issues",
   "license": "MIT",
   "keywords": ["mcp", "knowledge", "human-agent", "community", "skills"]
 }
